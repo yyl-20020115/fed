@@ -1,13 +1,14 @@
 Begin3
 Title:          FED
-Version:        2.24
-Entered-date:   2013-08-15
+Version:        2.24b
+Entered-date:   2020-01-16
 Description:    A folding text editor with color syntax highlighting and more
+Changes:        added Halibut and Markdown syntax-highlighting definitions
 Keywords:       text, editor
 Author:         Shawn Hargreaves
 Maintained-by:  Robert Riebisch
 Primary-site:   http://www.bttr-software.de/products/fed/
-Alternate-site: -
+Alternate-site:
 Original-site:  http://www.shawnhargreaves.com/fed/
 Platforms:      DOS
 Copying-policy: GNU General Public License, Version 2

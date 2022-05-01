@@ -1,5 +1,5 @@
 Begin3
-Language:    FR, 850
+Language:    FR, 850, French (Standard)
 Title:       FED
 Description: Un ‚diteur de texte avec coloration syntaxique et plus encore
 Keywords:    texte, ‚diteur

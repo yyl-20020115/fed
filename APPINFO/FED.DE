@@ -1,6 +1,7 @@
 Begin3
-Language:    DE, 858
+Language:    DE, 850, German (Standard)
 Title:       FED
-Description: Ein Text-Editor mit farbigem Syntax-Highlighting und Zeilenumbruch.
-Keywords:    text, editor
+Description: Texteditor mit Syntax-Highlighting u.a.
+Summary:     Ein Text-Editor mit farbigem Syntax-Highlighting und Zeilenumbruch.
+Keywords:    Text, Editor
 End

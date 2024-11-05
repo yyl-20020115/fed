@@ -1,0 +1,10 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vscode
+/SOURCE/FED_C/.vs/FED_C
+/SOURCE/FED_C/Debug
+/SOURCE/FED_C/FED_C/Debug
+/SOURCE/FED_C/FED_C/x64/Debug
+/SOURCE/FED_C/x64/Debug
